@@ -1,3 +1,6 @@
 *.a
 *.o
 *.log
+.svn
+Release
+Debug
