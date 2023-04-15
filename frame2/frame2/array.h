@@ -2,7 +2,9 @@
  * Array.h
  *
  *  Created on: 20 мар. 2021 г.
- *      Author: user
+ *      Author: Aleksandr Senchenko
+ *      Автор: Сенченко А. А.
+ *      email: alsenchenko@mail.ru
  */
 
 #ifndef ARRAY_H_
